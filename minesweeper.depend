@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562625582 source:c:\users\jacob\dropbox\programming\minesweeper\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<functional>
+	<cstdio>
+
